@@ -1,8 +1,7 @@
-# GoBarber App : Frontend Web
+# App : Frontend Web
 
-This repository reference Frontend app of Bootcamp Rocketseat. In this app, I implement the main content from the class using React.JS and Typescript together..
+This repository reference Frontend app. This app use React.JS and Typescript together and set EditorConfig, ESLint and Prettier settings..
 
-And I connect that on my Backend API and databases developed before in other step of this bootcamp. (See more: [gostack_nivel2_projetoNodejs](https://github.com/guilhermeal/gostack_nivel2_projetoNodejs) ).
 
 
 ## Available Scripts
